@@ -1,2 +1,3 @@
 # Smile-Detector
-An interesting one. Please do check!!!
+
+Computer Vision- Detecting objects using HaarCascade
